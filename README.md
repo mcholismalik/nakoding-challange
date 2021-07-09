@@ -1,10 +1,10 @@
-### Nakoding Coding Challange 🙀
+## Nakoding Coding Challange 🙀
 Archive for nakoding coding challange  
 
 🏆 : Best Performance
 ⚡ : Fastest Submit
 
-# July - Week 1
+#### July - Week 1
 
 | No | Date              | Name      | Lang        | Runtime | Memory | Badge |
 | -- | ----------------- | --------- | ----------- | ------- | ------ | ----- |
@@ -16,11 +16,6 @@ Archive for nakoding coding challange
 | 6  | 7/6/2021 17:49:55 | Fajrian   | php         | 92ms    | 15.4   |       |
 | 7  | 7/7/2021 10:58:17 | Cholis    | golang      | 24ms    | 5.3    |       |
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 <!--
 **mcholismalik/mcholismalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
