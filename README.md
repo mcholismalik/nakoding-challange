@@ -1,8 +1,8 @@
 ## Nakoding Coding Challange 🙀
 Archive for nakoding coding challange  
 
-🏆 : Best Performance
-⚡ : Fastest Submit
+- 🏆 : Best Performance
+- ⚡ : Fastest Submit
 
 #### July - Week 1
 
