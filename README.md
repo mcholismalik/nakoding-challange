@@ -4,7 +4,7 @@ Archive for nakoding coding challange
 - 🏆 : Best Performance
 - ⚡ : Fastest Submit
 
-### July - Week 1
+### #1 - Palindrome (July - Week 1)
 
 | No | Date              | Name      | Lang        | Runtime | Memory | Badge |
 | -- | ----------------- | --------- | ----------- | ------- | ------ | ----- |
