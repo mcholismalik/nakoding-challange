@@ -15,6 +15,12 @@ Archive for nakoding coding challange
 - 6 | 7/6/2021 17:49:55 | Fajrian | php | 92 | 15.4
 - 7 | 7/7/2021 10:58:17 | Cholis | golang | 24 | 5.3
 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 <!--
 **mcholismalik/mcholismalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
