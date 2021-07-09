@@ -6,9 +6,7 @@ Archive for nakoding coding challange
 
 # July - Week 1
 
-------------------------------------------------------------
-No | Date | Name | Lang | Runtime (ms) | Memory (mb) | Badge
-------------------------------------------------------------
+- No | Date | Name | Lang | Runtime (ms) | Memory (mb) | Badge
 - 1 | 7/6/2021 17:13:50 | Zidni | javascript | 152 | 47.8
 - 2 | 7/6/2021 17:13:57 | Chandra | golang | 8 | 5.3
 - 3 | 7/6/2021 17:24:23 | Haqim | python | 64 | 14
