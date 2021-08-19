@@ -1,4 +1,4 @@
-# Nakoding Coding Challange 🙀
+# Nakoding Challange 🙀
 Archive for nakoding coding challange  
 
 - 🏆 : Best Performance
