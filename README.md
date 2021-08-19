@@ -4,7 +4,14 @@ Archive for nakoding coding challange
 - 🏆 : Best Performance
 - ⚡ : Fastest Submit
 
-### #1 - Palindrome (July - Week 1)
+### #2 - N-ary Tree Level Order Traversal (Agustus)
+
+| No | Date               | Name      | Lang        | Runtime | Memory | Badge |
+| -- | ------------------ | --------- | ----------- | ------- | ------ | ----- |
+| 1  | 8/14/2021 19:59:42 | Chandra   | [golang](https://play.golang.org/p/OP6SlyKtLAQ)     | 0ms     | 4.4mb  | 🏆   |
+
+
+### #1 - Palindrome (July)
 
 | No | Date              | Name      | Lang        | Runtime | Memory | Badge |
 | -- | ----------------- | --------- | ----------- | ------- | ------ | ----- |
