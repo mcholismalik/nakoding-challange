@@ -9,7 +9,7 @@ Archive for nakoding coding challange
 | No | Date               | Name      | Lang        | Runtime | Memory | Badge |
 | -- | ------------------ | --------- | ----------- | ------- | ------ | ----- |
 | 1  | 8/14/2021 19:59:42 | Chandra   | [golang](https://play.golang.org/p/OP6SlyKtLAQ)     | 0ms     | 4.4mb  | 🏆   |
-| 1  | 8/14/2021 19:59:42 | Cholis   | [golang](https://github.com/mcholismalik/leetcode-playground/blob/master/challange/naryTreeLevelOrderTraversal/naryTreeLevelOrderTraversal.go)     | 0ms     | 4.5mb  | 🏆   |
+| 2  | 8/14/2021 19:59:42 | Cholis   | [golang](https://github.com/mcholismalik/leetcode-playground/blob/master/challange/naryTreeLevelOrderTraversal/naryTreeLevelOrderTraversal.go)     | 0ms     | 4.5mb  |      |
 
 
 ### #1 - Palindrome (July)
