@@ -9,7 +9,7 @@ Archive for nakoding coding challange
 | No | Date               | Name      | Lang        | Runtime | Memory | Badge |
 | -- | ------------------ | --------- | ----------- | ------- | ------ | ----- |
 | 1  | 9/11/2021 15:08:42 | ZIdni    | [javascript](https://pastebin.com/vg8WLTTz)     | 92ms     | 43mb  | 🏆   |
-| 2  | 9/11/2021 15:08:42 | Cholis   | [golang](https://github.com/mcholismalik/leetcode-playground/blob/master/challange/validSudoku/validSudoku.go)     | 0ms     | 4mb  |      
+| 2  | 9/11/2021 15:08:42 | Cholis   | [golang](https://github.com/mcholismalik/leetcode-playground/blob/master/challange/validSudoku/validSudoku.go)     | 4ms     | 4.5mb  |      
 
 ### #2 - N-ary Tree Level Order Traversal (Agustus)
 
