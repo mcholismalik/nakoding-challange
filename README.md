@@ -4,7 +4,7 @@ Archive for nakoding coding challange
 - 🏆 : Best Performance
 - ⚡ : Fastest Submit
 
-### #3 - Valid Sudoku (Agustus)
+### #3 - Valid Sudoku (September)
 
 | No | Date               | Name      | Lang        | Runtime | Memory | Badge |
 | -- | ------------------ | --------- | ----------- | ------- | ------ | ----- |
